@@ -17,7 +17,7 @@ Listado de tecnologías de este proyecto:
 ## Despliegue 📦
 
 _Puede descargar el APK del siguiente enlace, libre de virus_
-* [Clic Aqui]()
+* [Clic Aqui](https://zeconslab.github.io/blog-cafe/)
 
 ![ImagenFinal]()
 
