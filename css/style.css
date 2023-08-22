@@ -101,6 +101,7 @@ img {
     text-align: center;
     font-size: 1.8rem;
     color: var(--blanco);
+    transition: transform .2s; 
 }
 .navegacion__enlace:hover {
     transform: scale(1.2);
