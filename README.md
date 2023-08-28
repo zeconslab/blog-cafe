@@ -13,7 +13,6 @@
 Listado de tecnologías de este proyecto:
 * [Html5](https://developer.mozilla.org/es/docs/Web/HTML): Version 5
 * [Css3](https://developer.mozilla.org/es/docs/Web/CSS): Version 3
-* 
 ## Despliegue 📦
 
 _Puede descargar el APK del siguiente enlace, libre de virus_
